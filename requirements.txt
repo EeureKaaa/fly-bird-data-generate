@@ -1,0 +1,7 @@
+flappy_bird_gymnasium==0.4.0
+gymnasium==0.29.1
+keyboard==0.13.5
+numpy==1.23.5
+opencv_python==4.10.0.84
+PyAutoGUI==0.9.54
+stable_baselines3==2.3.2
